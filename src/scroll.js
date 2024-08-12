@@ -12,13 +12,13 @@ function Scroll () {
                     </div>
                     <div className="carousel-inner">
                         <div className="carousel-item active">
-                            <img src="./slideone.png" className="d-block slide-img-one" alt="..." />
+                            <img src="./slideone.png" className="d-block slide-img-one" alt="image" />
                             <div className="carousel-caption d-none d-md-block">
                                 <h1 className="slide-title-one">.</h1>                                                
                             </div>
                         </div>
                         <div className="carousel-item">
-                            <img src="./slsix.png" className="d-block slide-img-two" alt="..."/>
+                            <img src="./slsix.png" className="d-block slide-img-two" alt="image"/>
                             <div className="carousel-caption d-none d-md-block">
                                 <p className="sec-slide-info-one">We innovate technology</p>
                                 <p className="sec-slide-info-t">One step to the</p>
@@ -27,7 +27,7 @@ function Scroll () {
                             </div>
                         </div>
                         <div className="carousel-item">
-                            <img src="./slidefour.png" className="d-block slide-img-thr" alt="..."/>
+                            <img src="./slidefour.png" className="d-block slide-img-thr" alt="image"/>
                             <div className="carousel-caption d-none d-md-block">
                                 <h1 className="sliinfthr">DAWNVERSE TECH</h1>
                                 <h1 className="sliinfth">And SERVICES</h1>
@@ -48,7 +48,7 @@ function Scroll () {
                     <div className="col-md-5">
                         <h1 className="cont-mid-title">Expert Consultants</h1>
                         <p className="cont-mid-info">A commitment to excellence in everything we do, resulting in high-quality solutions that exceed our clients' expectations.</p>
-                        <a className="mid-link" href="#">Know more &rarr;</a>
+                        <a className="mid-link">Know more &rarr;</a>
                     </div>
                     <div className="col-md-4">
                         <img className="cont-mid-img" src="./meet.png" />

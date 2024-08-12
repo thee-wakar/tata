@@ -9,9 +9,9 @@ function Threedservice() {
             <div className="carrer-cont">
                 <h1 className="web-ser-title">3D Design</h1>
                 <p className="web-ser-inf">let's build the future of the cloud, together.</p>
-                <a className="read" href="#">Read more</a>
+                <a className="read">Read more</a>
             </div>
-            <p className="welcome">Immerse yourself in a realm where innovation and technology intertwine, and your dreams materialize into tangible creations. <a className="wel" href="#">Connect  &rarr;</a></p>
+            <p className="welcome">Immerse yourself in a realm where innovation and technology intertwine, and your dreams materialize into tangible creations. <a className="wel">Connect  &rarr;</a></p>
             <hr/>
             <div className="web-ser-cont">
                 <h1 className="main-t">Capabilities:</h1>

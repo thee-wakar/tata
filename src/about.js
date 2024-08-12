@@ -9,13 +9,13 @@ function About () {
             <div className="about-cont">
                 .
             </div>
-            <p className="building-abt">Experience the transformative power of software with our innovative solutions. <a className="build-link-abt" href="#">Learn more &rarr; </a></p>
+            <p className="building-abt">Experience the transformative power of software with our innovative solutions. <a className="build-link-abt">Learn more &rarr; </a></p>
             <hr/>
             <div className="about-info">
                 <div className="row">
                     <div className="col-md-3 side-bar-one">
                         <div className="side-cont-one">
-                        <img className="side-img" src="./sidem.jpeg" />
+                        <img className="side-img" src="./sidem.jpeg" alt="image"/>
                         <p className="side-title">CORPORATE RESPONSIBILITY</p>
                         <p className="side-info">Our impact</p>
                         <p className="side-infom">Helping to power economic growth by breaking down barriers and creating opportunities in communities across the globe.</p>
@@ -37,7 +37,7 @@ function About () {
                         <p className="what">What does Dawnverse do ?</p>
                         <p className="we">We bring together all the necessary technology and services to help our clients solve their business problems.</p>
                         <p className="we">transformative</p>
-                        <img className="do-img" src="./do.jpeg" />
+                        <img className="do-img" src="./do.jpeg" alt="image" />
                         </div>
                     </div>
                     <div className="col-md-5 accor">

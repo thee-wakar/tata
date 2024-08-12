@@ -8,7 +8,7 @@ function Footer() {
                 <br/>
                 <div className="row">
                     <div className="col-md-3">
-                    <a href="./home"><img className="footer-img" src="./db.png" /></a>
+                    <a href="./home"><img className="footer-img" src="./db.png" alt="image" /></a>
 
                     </div>
                     <div className="col-md-2 footer-two-col">
@@ -29,7 +29,7 @@ function Footer() {
                         <br/>
                         <a className="footer-nav" href="./services">Services</a>
                         <br/>
-                        <a className="footer-nav" href="#">Courses</a>
+                        <a className="footer-nav">Courses</a>
                         <br/>
                         <a className="footer-nav" href="./careers">Careers</a>
                         <br/>
@@ -52,10 +52,10 @@ function Footer() {
                     </div>
                 </div>
                 <p className="copy-rights">© Copyrights 2023 Dawnverse Technologies India. All Rights Reserved.</p>
-                <a className="footer-polic" href="#">Privacy Policy</a>
-                <a className="footer-policy" href="#">Terms & Conditions</a>
-                <a className="footer-policy" href="#">Accessibility</a>
-                <a className="footer-policy" href="#">Cookie Preferences</a>
+                <a className="footer-polic">Privacy Policy</a>
+                <a className="footer-policy">Terms & Conditions</a>
+                <a className="footer-policy">Accessibility</a>
+                <a className="footer-policy">Cookie Preferences</a>
                 <br/>
             </div>
         </div>

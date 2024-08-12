@@ -12,7 +12,7 @@ function Services() {
                 <h1  className="service-title">OUR SERVICES</h1>
                 <div className="row services-one">
                     <div className="col-md-2 ser-one">
-                        <img className="web-d" src="./webde.jpg" />
+                        <img className="web-d" src="./webde.jpg" alt="image" />
                     </div>
                     <div className="col-md-5 ser-two">
                         <h1 className="Web-title">WEB DEVELOPMENT</h1>
@@ -22,7 +22,7 @@ function Services() {
                 </div>
                 <div className="row services-one">
                     <div className="col-md-2 ser-one">
-                        <img className="web-d" src="./appd.jpg" />
+                        <img className="web-d" src="./appd.jpg" alt="image" />
                     </div>
                     <div className="col-md-5 ser-two">
                         <h1 className="Web-title">APP DEVELOPMENT</h1>
@@ -32,7 +32,7 @@ function Services() {
                 </div>
                 <div className="row services-one">
                     <div className="col-md-2 ser-one">
-                        <img className="web-d" src="./cyb.jpg" />
+                        <img className="web-d" src="./cyb.jpg" alt="image" />
                     </div>
                     <div className="col-md-5 ser-two">
                         <h1 className="Web-title">CYBER SECURITY</h1>
@@ -42,7 +42,7 @@ function Services() {
                 </div>
                 <div className="row services-one">
                     <div className="col-md-2 ser-one">
-                        <img className="web-d" src="./datas.jpg" />
+                        <img className="web-d" src="./datas.jpg" alt="image" />
                     </div>
                     <div className="col-md-5 ser-two">
                         <h1 className="Web-title">DATA SCIENCE</h1>
@@ -52,7 +52,7 @@ function Services() {
                 </div>
                 <div className="row services-one">
                     <div className="col-md-2 ser-one">
-                        <img className="web-d" src="./cloud.jpg" />
+                        <img className="web-d" src="./cloud.jpg" alt="image" />
                     </div>
                     <div className="col-md-5 ser-two">
                         <h1 className="Web-title">CLOUD COMPUTING</h1>
@@ -62,7 +62,7 @@ function Services() {
                 </div>
                 <div className="row services-one">
                     <div className="col-md-2 ser-one">
-                        <img className="web-d" src="./thrd.jpg" />
+                        <img className="web-d" src="./thrd.jpg" alt="image" />
                     </div>
                     <div className="col-md-5 ser-two">
                         <h1 className="Web-title">3D DESIGN</h1>
@@ -72,7 +72,7 @@ function Services() {
                 </div>
                 <div className="row services-one">
                     <div className="col-md-2 ser-one">
-                        <img className="web-d" src="./ui.jpg" />
+                        <img className="web-d" src="./ui.jpg" alt="image" />
                     </div>
                     <div className="col-md-5 ser-two">
                         <h1 className="Web-title">UI/UX DESIGN</h1>

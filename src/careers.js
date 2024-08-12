@@ -7,7 +7,7 @@ function Careers () {
         <div>
             <Navbar />
                 <div className="carrer-cont-page">
-                    <img className="load" src="./load.png" />
+                    <img className="load" src="./load.png" alt="image" />
                 </div>
             <Footer />
         </div>

@@ -29,12 +29,12 @@ function Contact () {
                         <button className="button-contone">Send</button>
                     </div>
                     <div className="col-md-5 form-image">
-                        <h1 className="adr"><img className="loc" src="./loc.png" /> Address:</h1>
+                        <h1 className="adr"><img className="loc" src="./loc.png" alt="image" /> Address:</h1>
                         <p className="address">Dawnverse tech, Kondapur, Near Alwyn colony Miyapur.</p>
                         <p className="address">Hyderabad, Telangana, India</p>
-                        <h1 className="pho">  <img className="call" src="./call.png" />Let's Talk:</h1>
+                        <h1 className="pho">  <img className="call" src="./call.png" alt="image" />Let's Talk:</h1>
                         <p className="address">Hyderabad, Telangana, India</p>
-                        <h1 className="em">  <img className="mail" src="./mail.png" />General Support:</h1>
+                        <h1 className="em">  <img className="mail" src="./mail.png" alt="image" />General Support:</h1>
                         <p className="address">Dawnversetech@gmail.com</p>
                     </div>
                 </div>
